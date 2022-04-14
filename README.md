@@ -1,2 +1,3 @@
 # Соколовский Александр
-First_project
+My First_project
+Landing Page HTML, CSS
